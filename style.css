@@ -67,6 +67,6 @@ ul li{
     flex-direction: column;
     gap: 15px;   
 }
-submit :hover {
+ .work submit :hover {
     background-color: read;
 }
