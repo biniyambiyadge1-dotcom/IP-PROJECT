@@ -59,14 +59,11 @@ ul li{
     border-radius: 5px;
     box-shadow: 0 2px 4px rgb(0, 0, 0.1);
 } 
-. work {
+. work{
     max-width: 500px;
     margin: 0 auto;
     display: flex;
     border-radius= 50px;
     flex-direction: column;
     gap: 15px;   
-}
- .work submit :hover {
-    background-color: read;
 }
